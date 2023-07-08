@@ -1,0 +1,27 @@
+td, th {
+    border: 2px solid #dddddd;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#9ff1a5;
+}
+
+button {
+    margin: 0;
+    position: absolute;
+    top: 97%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+body{
+    background-color: #48D1CC;
+}
